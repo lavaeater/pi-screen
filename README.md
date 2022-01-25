@@ -6,6 +6,13 @@ One could easily imagine the application consisting of different services runnin
 
 The Flutter package for Rpi works on 3s and 4s, but we might end up in a situation where we need another 4, which is totally fine. The cool part is that we can probably write the app for desktop and that's that.  
 
+## First things first
+
+What is the first thing I want to show on my little management screen, huh?
+
+Lets do global covid deaths.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
